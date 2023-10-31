@@ -1,0 +1,9 @@
+Source_dataset, Variable,Label, Requested, Min, Max
+APEX_Biochemistry,project123_StudyNo_Biochemistry,project123_StudyNo_Biochemistry,1, ,
+APEX_Biochemistry, Date, Date,1, 2020-01-01,31/12/2022
+APEX_Biochemistry, Type, Type,1, ,
+APEX_Biochemistry, Result, Result,1, ,
+APEX_Haematology,project123_StudyNo_Haematology,project123_StudyNo_Haematology,1, ,
+APEX_Haematology, Date, Date,1, ,
+APEX_Haematology, Type, Type,1, ,
+APEX_Haematology, Result, Result,1, ,
